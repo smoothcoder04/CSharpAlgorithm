@@ -5,6 +5,12 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{6D1B1C30-8AE0-49D7-8D68-511AA765A858}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{CC8F2E0F-57FC-44C6-A171-0D0738E9D645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymmetricBinaryTree", "SymmetricBinaryTree\SymmetricBinaryTree.csproj", "{F955AFD1-C2CA-4BB3-BE57-3FB00739EE53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchTree", "BinarySearchTree\BinarySearchTree.csproj", "{BCAC977B-7F62-4CE8-A9D9-424070A9AF5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{6D1B1C30-8AE0-49D7-8D68-511AA765A858}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D1B1C30-8AE0-49D7-8D68-511AA765A858}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D1B1C30-8AE0-49D7-8D68-511AA765A858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC8F2E0F-57FC-44C6-A171-0D0738E9D645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC8F2E0F-57FC-44C6-A171-0D0738E9D645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC8F2E0F-57FC-44C6-A171-0D0738E9D645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC8F2E0F-57FC-44C6-A171-0D0738E9D645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F955AFD1-C2CA-4BB3-BE57-3FB00739EE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F955AFD1-C2CA-4BB3-BE57-3FB00739EE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F955AFD1-C2CA-4BB3-BE57-3FB00739EE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F955AFD1-C2CA-4BB3-BE57-3FB00739EE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCAC977B-7F62-4CE8-A9D9-424070A9AF5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCAC977B-7F62-4CE8-A9D9-424070A9AF5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCAC977B-7F62-4CE8-A9D9-424070A9AF5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCAC977B-7F62-4CE8-A9D9-424070A9AF5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

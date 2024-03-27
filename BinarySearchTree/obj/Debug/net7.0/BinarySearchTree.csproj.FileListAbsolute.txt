@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/CSharpAlgorithm/BinarySearchTree/bin/Debug/net7.0/BinarySearchTree
+/Users/mawhinneym/Projects/CSharpAlgorithm/BinarySearchTree/bin/Debug/net7.0/BinarySearchTree.deps.json
+/Users/mawhinneym/Projects/CSharpAlgorithm/BinarySearchTree/bin/Debug/net7.0/BinarySearchTree.runtimeconfig.json
+/Users/mawhinneym/Projects/CSharpAlgorithm/BinarySearchTree/bin/Debug/net7.0/BinarySearchTree.dll
+/Users/mawhinneym/Projects/CSharpAlgorithm/BinarySearchTree/bin/Debug/net7.0/BinarySearchTree.pdb
+/Users/mawhinneym/Projects/CSharpAlgorithm/BinarySearchTree/obj/Debug/net7.0/BinarySearchTree.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/CSharpAlgorithm/BinarySearchTree/obj/Debug/net7.0/BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/CSharpAlgorithm/BinarySearchTree/obj/Debug/net7.0/BinarySearchTree.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/CSharpAlgorithm/BinarySearchTree/obj/Debug/net7.0/BinarySearchTree.AssemblyInfo.cs
+/Users/mawhinneym/Projects/CSharpAlgorithm/BinarySearchTree/obj/Debug/net7.0/BinarySearchTree.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/CSharpAlgorithm/BinarySearchTree/obj/Debug/net7.0/BinarySearchTree.dll
+/Users/mawhinneym/Projects/CSharpAlgorithm/BinarySearchTree/obj/Debug/net7.0/refint/BinarySearchTree.dll
+/Users/mawhinneym/Projects/CSharpAlgorithm/BinarySearchTree/obj/Debug/net7.0/BinarySearchTree.pdb
+/Users/mawhinneym/Projects/CSharpAlgorithm/BinarySearchTree/obj/Debug/net7.0/BinarySearchTree.genruntimeconfig.cache
+/Users/mawhinneym/Projects/CSharpAlgorithm/BinarySearchTree/obj/Debug/net7.0/ref/BinarySearchTree.dll
