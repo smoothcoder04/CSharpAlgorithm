@@ -1,0 +1,5 @@
+/Users/mawhinneym/Projects/CSharpAlgorithm/SymmetricBinaryTree/obj/Debug/net7.0/SymmetricBinaryTree.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/CSharpAlgorithm/SymmetricBinaryTree/obj/Debug/net7.0/SymmetricBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/CSharpAlgorithm/SymmetricBinaryTree/obj/Debug/net7.0/SymmetricBinaryTree.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/CSharpAlgorithm/SymmetricBinaryTree/obj/Debug/net7.0/SymmetricBinaryTree.AssemblyInfo.cs
+/Users/mawhinneym/Projects/CSharpAlgorithm/SymmetricBinaryTree/obj/Debug/net7.0/SymmetricBinaryTree.csproj.CoreCompileInputs.cache
