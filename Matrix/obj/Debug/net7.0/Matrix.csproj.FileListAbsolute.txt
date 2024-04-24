@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/CSharpAlgorithm/Matrix/obj/Debug/net7.0/Matrix.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/CSharpAlgorithm/Matrix/obj/Debug/net7.0/Matrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/CSharpAlgorithm/Matrix/obj/Debug/net7.0/Matrix.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/CSharpAlgorithm/Matrix/obj/Debug/net7.0/Matrix.AssemblyInfo.cs
+/Users/mawhinneym/Projects/CSharpAlgorithm/Matrix/obj/Debug/net7.0/Matrix.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/CSharpAlgorithm/Matrix/bin/Debug/net7.0/Matrix
+/Users/mawhinneym/Projects/CSharpAlgorithm/Matrix/bin/Debug/net7.0/Matrix.deps.json
+/Users/mawhinneym/Projects/CSharpAlgorithm/Matrix/bin/Debug/net7.0/Matrix.runtimeconfig.json
+/Users/mawhinneym/Projects/CSharpAlgorithm/Matrix/bin/Debug/net7.0/Matrix.dll
+/Users/mawhinneym/Projects/CSharpAlgorithm/Matrix/bin/Debug/net7.0/Matrix.pdb
+/Users/mawhinneym/Projects/CSharpAlgorithm/Matrix/obj/Debug/net7.0/Matrix.dll
+/Users/mawhinneym/Projects/CSharpAlgorithm/Matrix/obj/Debug/net7.0/refint/Matrix.dll
+/Users/mawhinneym/Projects/CSharpAlgorithm/Matrix/obj/Debug/net7.0/Matrix.pdb
+/Users/mawhinneym/Projects/CSharpAlgorithm/Matrix/obj/Debug/net7.0/Matrix.genruntimeconfig.cache
+/Users/mawhinneym/Projects/CSharpAlgorithm/Matrix/obj/Debug/net7.0/ref/Matrix.dll

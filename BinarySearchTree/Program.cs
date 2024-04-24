@@ -5,6 +5,35 @@ namespace BinarySearchTree
 {
     class Program
     {
+        //find minimum value in the tree
+        static public int findMinRecursive(Node root)
+        {
+            if(root == null)
+            {
+                return -1;
+            }
+            else if(root.leftChild == null)
+            {
+                return root.value;
+            }
+            else
+            {
+                return findMinRecursive(root.leftChild);
+            }
+        }
+
+        static public int findMinIterative(Node root)
+        {
+            if(root == null)
+            {
+                return -1;
+            }
+            while (root.leftChild != null)
+            {
+                root = root.leftChild;
+            }
+            return root.value;
+        }
         static void Main(string[] args)
         {
             //check if the tree is symmetric
@@ -51,7 +80,7 @@ namespace BinarySearchTree
             BSTRec.inOrderPrint(BSTRec.getRoot());
  */
             //deletion of leaf node
-            BinarySearchTreeDeleteEmptyTree BST = new BinarySearchTreeDeleteEmptyTree(13);
+         BinarySearchTreeDeleteEmptyTree BST = new BinarySearchTreeDeleteEmptyTree(13);
             BST.insertBST(4);
             BST.insertBST(7);
             BST.insertBST(16);
@@ -59,12 +88,31 @@ namespace BinarySearchTree
             BST.insertBST(5);
             BST.insertBST(15);
 
+            
             Console.WriteLine("InOrderTraversal");
             BST.inOrderPrint(BST.getRoot());
-            Console.WriteLine("Delete 15");
-            Console.WriteLine(BST.deleteBST(15));
-            Console.WriteLine("After deletion");
+
+            Console.WriteLine($"Min value in the tree :{findMinRecursive(BST.getRoot())}");
+            Console.WriteLine($"Min value in the tree :{findMinIterative(BST.getRoot())}");
+
+
+            //Console.WriteLine("Delete 15");
+            //Console.WriteLine(BST.deleteBST(15));
+            //Console.WriteLine("After deletion");
+            //BST.inOrderPrint(BST.getRoot());
+
+/*             BinarySearchTreeMinValue BST = new BinarySearchTreeMinValue(13);
+            BST.insertBSTTree(4);
+            BST.insertBSTTree(7);
+            BST.insertBSTTree(16);
+            BST.insertBSTTree(19);
+            BST.insertBSTTree(5);
+            BST.insertBSTTree(15);
+
+            Console.WriteLine("InOrderTraversal");
             BST.inOrderPrint(BST.getRoot());
+
+            //BST.FindMinValue(); */
             return;
         }
     }
