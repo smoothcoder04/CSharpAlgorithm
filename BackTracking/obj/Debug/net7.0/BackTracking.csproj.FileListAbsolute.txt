@@ -1,0 +1,15 @@
+/Users/mawhinneym/Projects/CSharpAlgorithm/BackTracking/obj/Debug/net7.0/BackTracking.csproj.AssemblyReference.cache
+/Users/mawhinneym/Projects/CSharpAlgorithm/BackTracking/obj/Debug/net7.0/BackTracking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mawhinneym/Projects/CSharpAlgorithm/BackTracking/obj/Debug/net7.0/BackTracking.AssemblyInfoInputs.cache
+/Users/mawhinneym/Projects/CSharpAlgorithm/BackTracking/obj/Debug/net7.0/BackTracking.AssemblyInfo.cs
+/Users/mawhinneym/Projects/CSharpAlgorithm/BackTracking/obj/Debug/net7.0/BackTracking.csproj.CoreCompileInputs.cache
+/Users/mawhinneym/Projects/CSharpAlgorithm/BackTracking/bin/Debug/net7.0/BackTracking
+/Users/mawhinneym/Projects/CSharpAlgorithm/BackTracking/bin/Debug/net7.0/BackTracking.deps.json
+/Users/mawhinneym/Projects/CSharpAlgorithm/BackTracking/bin/Debug/net7.0/BackTracking.runtimeconfig.json
+/Users/mawhinneym/Projects/CSharpAlgorithm/BackTracking/bin/Debug/net7.0/BackTracking.dll
+/Users/mawhinneym/Projects/CSharpAlgorithm/BackTracking/bin/Debug/net7.0/BackTracking.pdb
+/Users/mawhinneym/Projects/CSharpAlgorithm/BackTracking/obj/Debug/net7.0/BackTracking.dll
+/Users/mawhinneym/Projects/CSharpAlgorithm/BackTracking/obj/Debug/net7.0/refint/BackTracking.dll
+/Users/mawhinneym/Projects/CSharpAlgorithm/BackTracking/obj/Debug/net7.0/BackTracking.pdb
+/Users/mawhinneym/Projects/CSharpAlgorithm/BackTracking/obj/Debug/net7.0/BackTracking.genruntimeconfig.cache
+/Users/mawhinneym/Projects/CSharpAlgorithm/BackTracking/obj/Debug/net7.0/ref/BackTracking.dll
